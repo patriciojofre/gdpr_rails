@@ -1,5 +1,5 @@
 
-
+.
 # GDPR RAILS
 
 ### Rails Engine for the GDPR compliance
